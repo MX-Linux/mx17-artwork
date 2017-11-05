@@ -1,4 +1,4 @@
-Default_wallpaper/* 	usr/local/share/backgrounds/MXLinux/wallpaper
-login_screen/*		usr/local/share/backgrounds/MXLinux/lightdm
-GRUB_background/*	usr/local/share/backgrounds/MXLinux/grub
-Live_bootloader/*		usr/local/share/backgrounds/MXLinux/syslinux
+Default_wallpaper/* 	usr/share/backgrounds
+login_screen/*		usr/share/backgrounds/MXLinux/lightdm
+GRUB_background/*	usr/share/backgrounds/MXLinux/grub
+Live_bootloader/*		usr/share/backgrounds/MXLinux/syslinux

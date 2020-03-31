@@ -1,8 +1,7 @@
 Source: mx17-artwork
 Section: xfce
 Priority: extra
-Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
-XSBC-Original-Maintainer: Kent Mathern <maintainer@mepiscommunity.org>
+Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.3
 

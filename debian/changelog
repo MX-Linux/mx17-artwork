@@ -1,3 +1,9 @@
+mx17-artwork (2.0.10) mx; urgency=medium
+
+  * add kde symlinks
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 14 Jun 2020 15:08:35 -0400
+
 mx17-artwork (2.0.9) mx; urgency=medium
 
   * update control file 

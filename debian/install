@@ -1,4 +1,4 @@
 Default_wallpaper/* 	usr/share/backgrounds
 login_screen/*		usr/share/backgrounds/MXLinux/lightdm
 GRUB_background/*	usr/share/backgrounds/MXLinux/grub
-wallpapers/*		usr/share/wallpapers
+wallpapers/*        usr/share/wallpapers
